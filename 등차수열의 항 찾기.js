@@ -10,7 +10,7 @@ function answer(a, d, n) {
         index =(n-a)/d +1
     }else index = -1;
   
-    // 코드 구현 종료 영역
+    // 코드 구현 종료 영역 
   
     return index;
   }
