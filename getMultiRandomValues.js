@@ -24,3 +24,5 @@ function rand(min,max,times, array = []){
         return array;
     }
 
+
+    

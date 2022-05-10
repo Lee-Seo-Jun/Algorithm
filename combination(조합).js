@@ -49,3 +49,5 @@ function combination(arr, data, s, idx, r, list/*반드시 포함되어야 하�
     combination(input, [], 0, 0, 4, list);
   
 
+
+    

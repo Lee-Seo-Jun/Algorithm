@@ -50,3 +50,4 @@ function answer2(a, d, n) {
     console.log(`#${i + 1} ${answer(input[i][0], input[i][1], input[i][2])}`);
   }
   
+  
