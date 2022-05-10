@@ -4,7 +4,7 @@
 function answer(arr) {
     let number = 0;
   
-    // sort
+
     num = [...arr];
     num.sort((x, y) => x-y);
     console.log(num);
