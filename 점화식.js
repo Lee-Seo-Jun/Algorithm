@@ -1,4 +1,3 @@
-//
 
 function forloop_arithmeticSequence(s/*초기값*/, t/*등차값*/, number/*반복할 횟수*/){
     let acc = 0;
